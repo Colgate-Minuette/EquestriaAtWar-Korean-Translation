@@ -1,25 +1,25 @@
 ﻿l_english:
  ### FOCUS ###
- EQC_memories_of_our_town:0 "Memories of Our Town"
- EQC_memories_of_our_town_desc:0 "Blueberry Frost was a loyal follower of Starlight Glimmer. Even after Starlight Glimmer was outed as a fraud, she still believed in true equality. With the true meaning of Our Town in our hearts and minds, let us march forwards as one and bring equality to all."
+ EQC_memories_of_our_town:0 "아워 타운의 추억"
+ EQC_memories_of_our_town_desc:0 "블루베리 프로스트는 스타라이트 글리머의 충성스러운 추종자 중 하나였습니다. 스타라이트 글리머가 사기꾼으로 추방되었음에도 불구하고, 그녀는 여전히 진정한 평등을 믿고 있었습니다. 아워 타운의 진정한 의미를 우리의 가슴과 마음에 담아 하나되어 전진하여 모두에게 평등을 가져옵시다."
  
  EQC_end_private_ownership:0 "End Private Ownership"
  EQC_end_private_ownership_desc:0 "Private Ownership is nothing less than a ruse to divide us, destroying these barriers would give everyone an equal standing. A perfect start to bringing conversation among one another."
  
- EQC_empower_the_farmers:0 "Equalise the Farmers" 
- EQC_empower_the_farmers_desc:0 "The farmers and Station Owners of the Outback have long been known for their greed as they work many New Marelanders half to death for little pay. It is time we show them the error of their ways and guide them on the path to equality."
+ EQC_empower_the_farmers:0 "Equalise the Farmers/ 농민들의 평등"
+ EQC_empower_the_farmers_desc:0 "농부들과 아웃백의 스테이션 소유주들은 뉴 메어랜드의 포니들을 적은 보수로 반쯤 죽도록 노동시켜 왔고, 이로 인해 그들의 탐욕은 널리 알려지게 되었습니다. 이젠 우리가 그들의 방법의 잘못된 점을 보여주고 그들을 평등의 길로 인도해야할 시간입니다."
  
- EQC_abolish_the_bit:0 "Abolish the Bit"
- EQC_abolish_the_bit_desc:0 "We've tied our lives to pieces of metals and determine a creature's value with how loud their pouch jingles. The removal of this frivolous concept would free the burden off of creatures. We won't have anyone preyed upon."
+ EQC_abolish_the_bit:0 "Abolish the Bit/비츠의 폐지/화폐의 폐지"
+ EQC_abolish_the_bit_desc:0 "우리는 우리의 삶을 금속 조각에 목매이게 했고, 한 생명체의 가치를 주머니의 짤랑거리는 소리의 크기로 결정해왔습니다. 이 천박한 생각의 제거는 생명체들의 짐을 없애줄것입니다. 우리는 아무도 이것에 잠식당하게 두지 않을것입니다."
  
- EQC_equal_road_distribution:0 "Equal Road Distribution"
- EQC_equal_road_distribution_desc:0 "For too long the roads and bridges of New Mareland have served those who live in the cities. It is time we fix this by building roads to all the towns and villages across the nation. For every inch of city asphalt, an inch must be poured for everyone else."
+ EQC_equal_road_distribution:0 "Equal Road Distribution/평등한 도로 분배"
+ EQC_equal_road_distribution_desc:0 "뉴 메어랜드의 도로와 다리는 너무 오랫동안 도시 안에 거주하는 포니들만을 위해 사용되었습니다. 이젠 우리가 전국의 모든 마을과 도시로 가는 도로를 건설함으로써 이것을 고칠 때가 되었습니다. 도시 아스팔트 구석까지 다른 모두를 위해 노력해야 합니다. "
  
- EQC_equal_work:0 "Equal Jobs"
- EQC_equal_work_desc:0 "Everyone deserves an equal shot and we won't push aside creatures who's expertise aren't in the job specifications. We work for the same reasons and none will be looked down upon by the uniform they wear." 
+ EQC_equal_work:0 "Equal Jobs/직업의 평등"
+ EQC_equal_work_desc:0 "모든 생명체는 동등한 대우를 받을 자격이 있고, 우리는 전문 지식이 없는 생명체라도 배척하지 않을 것입니다. 우리는 동일한 대의를 위해 일하고, 어떤 생명체도 그들이 입은 작업복으로 인해 폄하되지 않을것입니다." 
  
- EQC_equality_within_reason:0 "Equality Within Reason"
- EQC_equality_within_reason_desc:0 "Replacing everyone's cutie marks was a mistake. There's more to equality then the mark on your flank."
+ EQC_equality_within_reason:0 "이성의 평등"
+ EQC_equality_within_reason_desc:0 "모두의 큐티마크를 제거했던 것은 실수였습니다. 평등에는 엉덩이에 있는 큐티마크보다는 더 많은 것이 있습니다."
  
  EQC_equal_healthcare:0 "Equal Healthcare"
  EQC_equal_healthcare_desc:0 "We can't put a price on a creature's life, denying them the help that they deserve would be a tremendous disservice to our cause."
