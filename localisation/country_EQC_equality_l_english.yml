@@ -1,91 +1,91 @@
 ﻿l_english:
  ### FOCUS ###
- EQC_memories_of_our_town:0 "Memories of Our Town"
- EQC_memories_of_our_town_desc:0 "Blueberry Frost was a loyal follower of Starlight Glimmer. Even after Starlight Glimmer was outed as a fraud, she still believed in true equality. With the true meaning of Our Town in our hearts and minds, let us march forwards as one and bring equality to all."
+ EQC_memories_of_our_town:0 "아워 타운의 기억"
+ EQC_memories_of_our_town_desc:0 "블루베리 프로스트는 스타라이트 글리머의 충성스러운 추종자 중 하나였습니다. 스타라이트 글리머가 사기꾼으로 추방되었음에도 불구하고, 그녀는 여전히 진정한 평등을 믿고 있었습니다. 아워 타운의 진정한 의미를 우리의 가슴과 마음에 담아 하나되어 전진하여 모두에게 평등을 가져옵시다."
  
- EQC_end_private_ownership:0 "End Private Ownership"
- EQC_end_private_ownership_desc:0 "Private Ownership is nothing less than a ruse to divide us, destroying these barriers would give everyone an equal standing. A perfect start to bringing conversation among one another."
+ EQC_end_private_ownership:0 "개인 소유의 종말"
+ EQC_end_private_ownership_desc:0 "개인 소유권은 우리를 갈라놓기 위한 계략에 지나지 않습니다. 개인 소유권이라는 장벽을 파괴하는 것은 모두에게 동등한 지위를 부여할 것입니다. 이것은 개인 사이의 대화의 완벽한 시작이 될 것입니다."
  
- EQC_empower_the_farmers:0 "Equalise the Farmers" 
- EQC_empower_the_farmers_desc:0 "The farmers and Station Owners of the Outback have long been known for their greed as they work many New Marelanders half to death for little pay. It is time we show them the error of their ways and guide them on the path to equality."
+ EQC_empower_the_farmers:0 "농민들의 평등"
+ EQC_empower_the_farmers_desc:0 "농부들과 넓은 평야의 스테이션 소유주들은 뉴 메어랜드의 포니들을 적은 보수로 반쯤 죽도록 노동시켜 왔고, 이로 인해 그들의 탐욕은 널리 알려지게 되었습니다. 이젠 우리가 그들의 방법의 잘못된 점을 보여주고 그들을 평등의 길로 인도해야할 시간입니다."
  
- EQC_abolish_the_bit:0 "Abolish the Bit"
- EQC_abolish_the_bit_desc:0 "We've tied our lives to pieces of metals and determine a creature's value with how loud their pouch jingles. The removal of this frivolous concept would free the burden off of creatures. We won't have anyone preyed upon."
+ EQC_abolish_the_bit:0 "비츠를 폐지하라"
+ EQC_abolish_the_bit_desc:0 "우리는 우리의 삶을 금속 조각에 목매이게 했고, 생명의 가치를 주머니가 짤랑거리는 소리의 크기로 결정해왔습니다. 이 천박한 등각의 제거는 생명체들의 짐을 없애줄것입니다. 우리는 아무도 이것에 잠식당하게 두지 않을것입니다."
+
+ EQC_equal_road_distribution:0 "평등한 교통 분배"
+ EQC_equal_road_distribution_desc:0 "뉴 메어랜드의 도로와 다리는 너무 오랫동안 도시 안에 거주하는 포니들만을 위해 사용되었습니다. 이젠 우리가 전국의 모든 마을과 도시로 가는 도로를 건설함으로써 이것을 고칠 때가 되었습니다. 도시 아스팔트 구석까지 다른 모두를 위해 노력해야 합니다. "
  
- EQC_equal_road_distribution:0 "Equal Road Distribution"
- EQC_equal_road_distribution_desc:0 "For too long the roads and bridges of New Mareland have served those who live in the cities. It is time we fix this by building roads to all the towns and villages across the nation. For every inch of city asphalt, an inch must be poured for everyone else."
+ EQC_equal_work:0 "Equal Jobs/직업의 평등"
+ EQC_equal_work_desc:0 "모든 생명은 동등한 대우를 받을 자격이 있고, 우리는 전문 지식이 없는 생명체라도 배척하지 않을 것입니다. 우리는 동일한 대의를 위해 일하고, 어떤 생명체도 그들이 입은 작업복으로 인해 폄하되지 않을것입니다." 
  
- EQC_equal_work:0 "Equal Jobs"
- EQC_equal_work_desc:0 "Everyone deserves an equal shot and we won't push aside creatures who's expertise aren't in the job specifications. We work for the same reasons and none will be looked down upon by the uniform they wear." 
+ EQC_equality_within_reason:0 "이성에 기반한 평등"
+ EQC_equality_within_reason_desc:0 "모두의 큐티마크를 제거했던 것은 실수였습니다. 평등에는 큐티마크보다는 더 많은 의미가 있습니다."
  
- EQC_equality_within_reason:0 "Equality Within Reason"
- EQC_equality_within_reason_desc:0 "Replacing everyone's cutie marks was a mistake. There's more to equality then the mark on your flank."
+ EQC_equal_healthcare:0 "평등한 건강복지"
+ EQC_equal_healthcare_desc:0 "우리는 생명의 삶에 값을 매길 수 없습니다. 그들이 마땅히 받아야 할 도움을 거부하는 것은 우리의 대의에 크나큰 해가 될것입니다."
  
- EQC_equal_healthcare:0 "Equal Healthcare"
- EQC_equal_healthcare_desc:0 "We can't put a price on a creature's life, denying them the help that they deserve would be a tremendous disservice to our cause."
+ EQC_equal_schools:0 "교육의 평등"
+ EQC_equal_schools_desc:0 "모든 생명은 나이에 상관없이 최고의 교육을 받을 자격이 있습니다. We will make sure that everyone gets the support they need to achieve top equal marks.."
  
- EQC_equal_schools:0 "Equal Schools"
- EQC_equal_schools_desc:0 "All beings, young and old, all deserve the best education they can get. We will make sure that everyone gets the support they need to achieve top equal marks."
+ EQC_equal_workers_rights:0 "노동권의 평등"
+ EQC_equal_workers_rights_desc:0 "고용주와 노동자 같은 관계는 존재하지 않습니다. 우리는 모두 평등합니다. 모두가 하나 되어 조화롭게 일하는 한, 상사와 같은것은 존재하지 않을 것입니다."
  
- EQC_equal_workers_rights:0 "Equal Working Rights"
- EQC_equal_workers_rights_desc:0 "There is no such thing as employer and employee. We are all equal. There shall be no bosses as we all work together in harmony."
+ EQC_equal_culture:0 "문화의 평등"
+ EQC_equal_culture_desc:0 "미술, 음악, 연기등에 종사하는 포니들은 누가 더 능숙한지에 대해 항상 다투어 왔습니다. 이 갈등을 해결할 유일한 방법은 모두가 동등하게 즐기는 하나의 버전으로 통합하는 것입니다."
  
- EQC_equal_culture:0 "Equal Culture"
- EQC_equal_culture_desc:0 "Art, music, acting, these always cause petty squabbles over which is better. The only way to resolve this is to boil them down to one single, equal, version that everyone equally enjoys."
+ EQC_equal_luxury:0 "사치의 평등"
+ EQC_equal_luxury_desc:0 "모두가 같은 차, 같은 라디오, 같은 집, 같은 옷을 가지고, 같은 미소를 지을 것입니다. 예외는 아무에게도 적용되지 않을 것입니다. "
  
- EQC_equal_luxury:0 "Equal Luxuries"
- EQC_equal_luxury_desc:0 "Everyone will have the same car, the same radio, the same house, the same clothes, the same smile. No one will be left out."
+ EQC_equal_defense_training:0 "평등한 국방 훈련"
+ EQC_equal_defense_training_desc:0 "평등의 기쁨을 믿지 않는 자들이 있습니다. 만약 그들이 우리에게서 평등의 길을 빼앗기를 원한다면, 우리는 우리의 대의를 지킬 준비가 되어 있어야 합니다."
  
- EQC_equal_defense_training:0 "Equal Defence Training"
- EQC_equal_defense_training_desc:0 "There are those who do not believe in the joys of equality. We must all be equally prepared to protect our equal way of should they wish to take it from us."
+ EQC_equal_for_all:0 "모두를 위한 평등"
+ EQC_equal_for_all_desc:0 "뉴 메어랜드의 그리폰들은 그들 스스로를 우리의 사회로부터 분리시켰고, 야만적인 불평등한 사회 계층 속에 살고 있습니다. 이러한 불평등한 행위는 용납될 수 없습니다. 우리는 이 그리폰들을 우리들의 도시에 정착시키고 그들에게 평등이라는 사랑을 보여줄 것입니다."
  
- EQC_equal_for_all:0 "Equality for All"
- EQC_equal_for_all_desc:0 "The griffons of New Mareland have long segregated themselves from our society and live in barbaric unequal social hierarchies. This act of inequality cannot be allowed to stand. We shall resettle these griffons into our cities and show them the love that is equality."
+ EQC_total_equality:0 "완전한 평등"
+ EQC_total_equality_desc:0 "우리의 나라에서는, 우린 모두 같습니다. We are separated by nothing more than name. 우리의 큐티마크는 짐이고, 큐티마가는 갈등만을 유발할 뿐입니다. 따라서, 우리는 그것을 더 나은 삶을 위해 제거해야 합니다."
  
- EQC_total_equality:0 "Total Equality"
- EQC_total_equality_desc:0 "In Our Nation, we are all the same. We are separated by nothing more than name. Our cutie marks are a burden, they only cause strife. So, cut them out for a better life."
+ EQC_equality_camps:0 "평등 수용소"
+ EQC_equality_camps_desc:0 "우리는 최근에 개성과 같은 어리석은 것을 믿는 포니들을 우연히 만나게 되었습니다. 이 반동분자들은 우리의 생각이 결코 조롱거리가 되지 않을 것이라는 것을 배워야 합니다."
  
- EQC_equality_camps:0 "Equality Camps"
- EQC_equality_camps_desc:0 "We've recently come across ponies that believe in silly things as individuality. These reactionaries deserve to be taught that our ideas won't be made into a mockery."
+ EQC_equal_population_redistribution:0 "평등한 주민 재분배"
+ EQC_equal_population_redistribution_desc:0 "뉴 메어랜드의 주민 수는 불평등하게 분포되어 있습니다. 대다수가 비좁은 도시 아파트에서 살고 있는 한편, 소수의 주민들은 넓고 탁 트인 땅을 만끽합니다. 우리는 이 상황을 모두가 동일한 넓이의 집이라고 부를 수 있을 만한 면적의 땅을 가지고 있는지 조사함으로써 해결할 것입니다."
  
- EQC_equal_population_redistribution:0 "Equal Population Redistribution"
- EQC_equal_population_redistribution_desc:0 "The population of New Mareland is spread out unequally. Many are forced to live in cramped city apartments whilst others enjoy the large, open lands of the Outback. We shall resolve this by ensuring that every pony has the same amount of land to call home."
+ EQC_equal_talents:0 "평등한 재능"
+ EQC_equal_talents_desc:0 "누군가가 어떤 일에 재능을 보일 때, 그들은 불평등함과 질투, 불만을 야기합니다. 우리는 이러한 자기 발전과 같은 것을 근절해야 합니다. 모든 재능은 평등한 기술이어야 합니다."
  
- EQC_equal_talents:0 "Equal Talent"
- EQC_equal_talents_desc:0 "When someone is better at something, they are unequal and they breed jealousy and discontent. We must stamp out on such things as self-improvement. All talents must be of an equal skill."
+ EQC_equal_science:0 "평등한 과학"
+ EQC_equal_science_desc:0 "모든 분야의 과학은 동일한 양의 관심을 받아야 합니다. 우리는 한 분야에서의 연구가 다른 분야의 연구보다 뒤쳐지는 것을 허용할 수 없습니다,"
  
- EQC_equal_science:0 "Equal Science"
- EQC_equal_science_desc:0 "All fields of science must be given equal attention. We cannot allow research in one field to march ahead whilst another field falls behind."
+ EQC_equal_conscription:0 "평등한 병역 제도"
+ EQC_equal_conscription_desc:0 "우리가 아무리 열심히 노력하더라도, 평등을 거부하는 자들은 존재합니다. 따라서 우리의 평등으로의 길을 지키기 위해 무기를 들고 일어나는 것은 모든 포니들의 의무입니다. 우리의 평등한 군대에서 행군을 하기에 너무 어리거나 늙은 포니는 없습니다. 우리는 우리의 가슴 속에 품고 있는 진실된 평등한 미래를 위해 나란히 서서 싸울 것입니다."
  
- EQC_equal_conscription:0 "Equal Conscription"
- EQC_equal_conscription_desc:0 "As hard as we try, there are those who refuse equality. As such, it is the duty of everypony to take up arms in defence of our equal ways. No one is too young or too old to march in our equal army. We will fight side-by-side for an equal future that we all hold true in our hearts."
+ EQC_equal_minds_equal_voice:0 "같은 생각; 같은 목소리"
+ EQC_equal_minds_equal_voice_desc:0 "우리는 하나입니다. 우리는 하나되어 말합니다. 우리는 동등합니다.
  
- EQC_equal_minds_equal_voice:0 "Equal Minds; Equal Voice"
- EQC_equal_minds_equal_voice_desc:0 "We are one. We speak as one. We are the Equal."
+ EQC_smile_smile_smile:0 "웃음, 웃음, 웃음"
+ EQC_smile_smile_smile_desc:0 "우리는 평등한 유토피아에서 살고 있습니다. 슬픔과 비탄은 과거의 잔재일 뿐입니다. 행복과 기쁨은 지금 우리가 아는 모든 것이고, 기쁨을 나누지 않는 자들은 불평등한 존재이며 그들은 적절한 교육을 받을 것입니다."
  
- EQC_smile_smile_smile:0 "Smile, Smile, Smile"
- EQC_smile_smile_smile_desc:0 "We live in an equal utopia. Sadness and misery are relics of the past. Happiness and joy is all we know now, and those who don't share in this joy is an unequal and they shall be brought into line."
- 
- EQC_spread_equality:0 "Spread Equality"
- EQC_spread_equality_desc:0 "For Equalism to strive we must spread it across the globe. There are no such things as borders in an equal world."
+ EQC_spread_equality:0 "널리 퍼지는 평등"
+ EQC_spread_equality_desc:0 "평등주의가 다른 포니들 사이에서 수용되기 위해서는 평등주의를 널리 전파해야 합니다. 평등한 세계에는 국경같은것은 존재하지 않는 법입니다."
 
  ### IDEAS ###
- EQC_memories_of_our_town_idea:0 "Memories of Our Town"
- EQC_equal_conscription_idea:0 "Equal Conscription"
- EQC_equal_for_all_idea:0 "Equality for All"
- EQC_empower_the_farmers_idea:0 "Empower the Farmers"
- EQC_equal_healthcare_idea:0 "Equal Helthcare"
- EQC_equal_workers_rights_idea:0 "Equal Worker Rights"
- EQC_equal_luxury_idea:0 "Equal Luxuries"
- EQC_equal_defense_training_idea:0 "Equal Defence Training"
- EQC_equality_camps_idea:0 "Equality Camps"
- EQC_equal_population_redistribution_idea:0 "Equal Population Redistribution"
- EQC_equal_talents_idea:0 "Talentless Work Assingments"
- EQC_equal_minds_equal_voice_idea:0 "Equalist Propoganda"
- EQC_spread_equality_idea:0 "Spread Equality"
+ EQC_memories_of_our_town_idea:0 "아워 타운의 기억"
+ EQC_equal_conscription_idea:0 "평등한 병역 제도"
+ EQC_equal_for_all_idea:0 "모두를 위한 평등"
+ EQC_empower_the_farmers_idea:0 "농민들에게 힘을"
+ EQC_equal_healthcare_idea:0 "평등한 건강복지"
+ EQC_equal_workers_rights_idea:0 "노동권의 평등"
+ EQC_equal_luxury_idea:0 "평등한 사치"
+ EQC_equal_defense_training_idea:0 "평등한 국방 훈련"
+ EQC_equality_camps_idea:0 "평등 수용소"
+ EQC_equal_population_redistribution_idea:0 "평등한 주민 재분배"
+ EQC_equal_talents_idea:0 "재능 없는 작업 평가"
+ EQC_equal_minds_equal_voice_idea:0 "평등주의자 선전"
+ EQC_spread_equality_idea:0 "널리 퍼지는 평등"
  
  ### EVENTS ###
  
  ### DECISIONS ###
- EQC_spread_equality_decisions:0 "Spread Equality"
- EQC_spread_equality_to_neighbour:0 "Spread Equality to [From.GetNameDef]"
+ EQC_spread_equality_decisions:0 "평등주의를 전파"
+ EQC_spread_equality_to_neighbour:0 "[From.GetNameDef]로 평등주의를 전파"
